@@ -111,7 +111,7 @@ demo/
 ├── mandalay_hotspot_results.geojson                          # Analysis output (8,690 grid cells)
 ├── mandalay_hotspot_analysis.png                             # Static 5-panel map (180 dpi)
 ├── mandalay_hotspot_webmap.html                              # Interactive web map (self-contained)
-└── DOCUMENTATION.md                                          # This file
+└── README.md                                                 # This file
 ```
 
 ### Script Responsibilities
